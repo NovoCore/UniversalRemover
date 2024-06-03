@@ -107,6 +107,6 @@ jobs:
         files: UniversalRemover/obj/Release/*.exe
         tag_name: "release ${{ env.RELEASE_DATE }}"
         name: 'Release ${{ env.RELEASE_DATE }}'
-        body: 'Release Orcus Remover'
+        body: 'Release Universal Remover'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
