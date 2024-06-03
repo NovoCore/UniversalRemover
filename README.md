@@ -1,5 +1,5 @@
 # Universal Remover
-
+Only removes certain malware: Quasar, NanoCore and Orcus.
 ## About
 
 I developed Universal Remover out of frustration with antivirus solutions that overload you with unnecessary features yet fail to effectively eliminate Malware. The truly insidious aspect lies in how crypters can evade detection by your antivirus, disable it, and subsequently allow Malware to operate unimpeded.
