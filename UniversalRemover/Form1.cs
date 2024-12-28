@@ -179,7 +179,7 @@ namespace UniversalRemover
         private void Form1_Load(object sender, EventArgs e)
         {
             this.listView1.CheckBoxes = true;
-            LogMessage("Welcome to NanoCore Remover!\nWhen you click on Scan, it will take more than a minute or even an hour in some cases to calculate the file count, so the count might remain at 0 for a while.\nWe appreciate your patience.", Color.DarkGoldenrod);
+            LogMessage("Welcome to the Universal Remover!\nWhen you click on Scan, it will take more than a minute or even an hour in some cases to calculate the file count, so the count might remain at 0 for a while.\nWe appreciate your patience.", Color.DarkGoldenrod);
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
